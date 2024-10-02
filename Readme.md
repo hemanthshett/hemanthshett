@@ -1,4 +1,4 @@
-Hi I'm shetty, I'm from gat ece
+Hello, I'm Hemanth S, final year ECE Engineering student 
 
 
 Learning github
